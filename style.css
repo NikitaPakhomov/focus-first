@@ -1,0 +1,11 @@
+.wrapper {
+    display: flex;
+    justify-content: space-evenly;
+    background-color: red;
+}
+
+.item {
+    background-color: green;
+    width: 20px;
+    height: 50px;
+}
